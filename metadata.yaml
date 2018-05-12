@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '9530'
     url: http://www.gutenberg.org/2009/agents/9530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41088#Passeggiate-per-l-Italia-vol.-4
 gutenberg_bookshelf: IT Viaggi
 gutenberg_issued: '2012-10-17'
 gutenberg_type: Text
